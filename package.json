@@ -1,0 +1,9 @@
+{
+  "name": "vercel-ffmpeg",
+  "type": "module",
+  "dependencies": {
+    "@ffmpeg/ffmpeg": "^0.12.6",
+    "@ffmpeg/util": "^0.12.1",
+    "busboy": "^1.6.0"
+  }
+}
